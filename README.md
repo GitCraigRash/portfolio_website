@@ -4,7 +4,7 @@ About me section
 Portfolio Porjects as squares
   re_eval_URAIL - Shows interactive graph for the results of experiment. 
   ASL_CR_AG - allows user to either take picture of their hand signal using a camera or drag an image into the dropbox for the AI to check. 
-  
+  Leave some notes so I could fix any broken links or if the interactive features fail. 
   
 
 Has a blog section that will allow me to post text and some explainatory images and others to comment on those post. 
